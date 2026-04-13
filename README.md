@@ -52,7 +52,7 @@ This project strictly avoids shortcuts. Everything is hand-coded:
 
 1. Clone the repository:
 
-  git clone [https://github.com/YOUR_USERNAME/GraphVis.git](https://github.com/YOUR_USERNAME/GraphVis.git)
+  git clone [https://github.com/kuzey-gorgec/GraphVis.git](https://github.com/kuzey-gorgec/GraphVis.git)
 
 2. Clone the repository:Install the required UI library:
 
