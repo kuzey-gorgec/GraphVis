@@ -54,11 +54,11 @@ This project strictly avoids shortcuts. Everything is hand-coded:
 
   git clone [https://github.com/kuzey-gorgec/GraphVis.git](https://github.com/kuzey-gorgec/GraphVis.git)
 
-2. Clone the repository:Install the required UI library:
+2. Install the required UI library:
 
   pip install customtkinter
 
-3. Clone the repository:Run the application:
+3. Run the application:
 
   python main.py
 
